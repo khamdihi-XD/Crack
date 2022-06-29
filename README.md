@@ -5,7 +5,7 @@ $ pkg install git
 
 $ git clone https://github.com/khamdihi-XD/Crack
 
-$ cd crack
+$ cd Crack
 
 $ ls
 
