@@ -9,4 +9,4 @@ $ cd Crack
 
 $ ls
 
-$ python belajar.py
+$ python File.py
